@@ -69,15 +69,17 @@ body{
 
 .tecnologies_icon_container{
     display: flex;
+    width: 100%;
+    flex-wrap: wrap;
     position: relative;
     justify-content: center;
     align-items: center;
 }
 
 .tecnoligies_icon{
-    width: 15rem;
-    height: 15rem;
-    margin: 5rem; 
+    width: 12rem;
+    height: 12rem;
+    margin: 2rem; 
 }
 
 .titulo{
